@@ -1,0 +1,12 @@
+{
+  "rows": 25529,
+  "unique_posli": 25529,
+  "min_sale_date": "2007-06-19 00:00:00",
+  "max_sale_date": "2025-12-30 00:00:00",
+  "n_municipalities": 198,
+  "n_settlements": 659,
+  "share_coords_%": 99.86,
+  "median_price_eur": 119000.0,
+  "median_area_m2": 58.1,
+  "median_price_per_m2": 2048.726467331119
+}
