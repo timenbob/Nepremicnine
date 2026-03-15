@@ -1,0 +1,10 @@
+{
+  "n_posli_rows":162219,
+  "n_posli_unique":162219,
+  "n_deli_rows":146019,
+  "n_deli_unique_posli":91106,
+  "n_zem_rows":309487,
+  "n_zem_unique_posli":116757,
+  "n_apt_v1":27024,
+  "n_apt_v1_clean_candidate":26463
+}
