@@ -1,0 +1,203 @@
+[
+  {
+    "test_index": 3345,
+    "meta": {
+      "sale_date": "2025-09-22 00:00:00",
+      "municipality": "LOVRENC NA POHORJU",
+      "settlement": "LOVRENC NA POHORJU",
+      "price_per_m2": 975.609756097561,
+      "pred_price_per_m2": 1139.192914077825,
+      "abs_error_eur_m2": 163.583157980264,
+      "price_eur": 40000.0,
+      "area_m2": 41.0,
+      "build_year": 1979,
+      "property_age": 46
+    },
+    "explanation": [
+      {
+        "feature": "cat__settlement_ŠMARJE <= 0.00",
+        "contribution": -0.6491662716339132,
+        "test_index": 3345
+      },
+      {
+        "feature": "cat__ko_name_DESKLE <= 0.00",
+        "contribution": -0.43007619614741854,
+        "test_index": 3345
+      },
+      {
+        "feature": "cat__settlement_KREMBERK <= 0.00",
+        "contribution": -0.4146289547032816,
+        "test_index": 3345
+      },
+      {
+        "feature": "cat__settlement_KANAL <= 0.00",
+        "contribution": 0.33224677237906275,
+        "test_index": 3345
+      },
+      {
+        "feature": "cat__settlement_RADOMLJE <= 0.00",
+        "contribution": 0.2668492246960664,
+        "test_index": 3345
+      },
+      {
+        "feature": "cat__SIFRA_KO_2320 <= 0.00",
+        "contribution": 0.21456040561214057,
+        "test_index": 3345
+      },
+      {
+        "feature": "cat__settlement_MALO HUDO <= 0.00",
+        "contribution": 0.18718482295538913,
+        "test_index": 3345
+      },
+      {
+        "feature": "cat__SIFRA_KO_821 <= 0.00",
+        "contribution": 0.11050969341501708,
+        "test_index": 3345
+      },
+      {
+        "feature": "cat__ko_name_BEGUNJE PRI CERKNICI <= 0.00",
+        "contribution": 0.10370439541856998,
+        "test_index": 3345
+      },
+      {
+        "feature": "cat__ko_name_IVANJKOVCI <= 0.00",
+        "contribution": 0.07832808974549846,
+        "test_index": 3345
+      }
+    ]
+  },
+  {
+    "test_index": 3647,
+    "meta": {
+      "sale_date": "2025-06-25 00:00:00",
+      "municipality": "MARIBOR",
+      "settlement": "MARIBOR",
+      "price_per_m2": 2609.9706744868035,
+      "pred_price_per_m2": 1892.7108390888495,
+      "abs_error_eur_m2": 717.259835397954,
+      "price_eur": 89000.0,
+      "area_m2": 34.1,
+      "build_year": 1965,
+      "property_age": 60
+    },
+    "explanation": [
+      {
+        "feature": "cat__ko_name_KOZJE <= 0.00",
+        "contribution": -0.46298510989068864,
+        "test_index": 3647
+      },
+      {
+        "feature": "cat__SIFRA_KO_2629 <= 0.00",
+        "contribution": -0.3803366096992324,
+        "test_index": 3647
+      },
+      {
+        "feature": "cat__SIFRA_KO_926 <= 0.00",
+        "contribution": 0.28906269810061164,
+        "test_index": 3647
+      },
+      {
+        "feature": "cat__SIFRA_KO_984 <= 0.00",
+        "contribution": 0.23572455191802008,
+        "test_index": 3647
+      },
+      {
+        "feature": "cat__settlement_RAZBORCA <= 0.00",
+        "contribution": 0.20161379009409078,
+        "test_index": 3647
+      },
+      {
+        "feature": "cat__ko_name_DOBROVA <= 0.00",
+        "contribution": 0.16241214324215816,
+        "test_index": 3647
+      },
+      {
+        "feature": "cat__SIFRA_KO_283 <= 0.00",
+        "contribution": 0.12962597679749122,
+        "test_index": 3647
+      },
+      {
+        "feature": "cat__ko_name_ŠMARTNO PRI SLOVENJ GRADCU <= 0.00",
+        "contribution": 0.1106913830102798,
+        "test_index": 3647
+      },
+      {
+        "feature": "cat__SIFRA_KO_1659 <= 0.00",
+        "contribution": -0.037187765335788686,
+        "test_index": 3647
+      },
+      {
+        "feature": "cat__settlement_ŠMARTNO OB PAKI <= 0.00",
+        "contribution": 0.01770661117831778,
+        "test_index": 3647
+      }
+    ]
+  },
+  {
+    "test_index": 2516,
+    "meta": {
+      "sale_date": "2025-09-02 00:00:00",
+      "municipality": "LJUBLJANA",
+      "settlement": "LJUBLJANA",
+      "price_per_m2": 4228.769497400346,
+      "pred_price_per_m2": 3995.300880782046,
+      "abs_error_eur_m2": 233.46861661830008,
+      "price_eur": 244000.0,
+      "area_m2": 57.7,
+      "build_year": 1980,
+      "property_age": 45
+    },
+    "explanation": [
+      {
+        "feature": "cat__settlement_ROGATEC <= 0.00",
+        "contribution": -0.4596247321072696,
+        "test_index": 2516
+      },
+      {
+        "feature": "cat__ko_name_KRIŽE <= 0.00",
+        "contribution": 0.3668156435336613,
+        "test_index": 2516
+      },
+      {
+        "feature": "cat__SIFRA_KO_1743 <= 0.00",
+        "contribution": 0.3635252957711886,
+        "test_index": 2516
+      },
+      {
+        "feature": "cat__settlement_PODKOREN <= 0.00",
+        "contribution": -0.33229561432704097,
+        "test_index": 2516
+      },
+      {
+        "feature": "cat__settlement_VERD <= 0.00",
+        "contribution": 0.30121223940225345,
+        "test_index": 2516
+      },
+      {
+        "feature": "cat__SIFRA_KO_2598 <= 0.00",
+        "contribution": -0.26790299019124686,
+        "test_index": 2516
+      },
+      {
+        "feature": "cat__ko_name_ZGORNJA POLSKAVA <= 0.00",
+        "contribution": 0.2585079247059875,
+        "test_index": 2516
+      },
+      {
+        "feature": "cat__ko_name_PREVOJE <= 0.00",
+        "contribution": -0.23619411345962385,
+        "test_index": 2516
+      },
+      {
+        "feature": "cat__SIFRA_KO_874 <= 0.00",
+        "contribution": 0.14798416846037382,
+        "test_index": 2516
+      },
+      {
+        "feature": "cat__ko_name_VELIKA LIGOJNA <= 0.00",
+        "contribution": -0.11326872475375484,
+        "test_index": 2516
+      }
+    ]
+  }
+]
